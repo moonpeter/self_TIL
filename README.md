@@ -1,5 +1,11 @@
 # TIL
 
+#### 2020.09.01
+
+- James 프로젝트 : 기존 구조를 변경하여 RestTemplate로 받아온 String을 json으로 파싱하여 JsonObject로 변환하여 "themes" 내용만 나오도록 작성
+
+
+
 #### 2020.08.28
 
 - 이것이 자바다
