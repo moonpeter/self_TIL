@@ -1,5 +1,11 @@
 # TIL
 
+#### 2020.09.04
+
+- James 프로젝트 : 불필요한 코드 및 파일 정리하고 인덱스로 theme 객체 조회하는 api 작성
+
+
+
 #### 2020.09.03
 
 - James 프로젝트 : restTemplate 이용하여 jsonObject 변환하여 themes 데이터만 뽑아서 넘겨주기
