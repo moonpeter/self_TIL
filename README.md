@@ -1,5 +1,13 @@
 # TIL
 
+#### 2020.09.11
+
+- DAO, DTO, Entity Class의 차이 : https://gmlwjd9405.github.io/2018/12/25/difference-dao-dto-entity.html
+
+- James 프로젝트 : post로 넘어오는 데이터 받아서 입력/수정 처리하는 엔드포인트 작성중
+
+  
+
 #### 2020.09.10
 
 - James 프로젝트 : post로 넘어오는 데이터 받아서 입력/수정 처리하는 엔드포인트 작성중
